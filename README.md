@@ -1,7 +1,6 @@
 # livraison1
 Livraison du Module 1 (Concepts objets élémentaires) du programme de formation Java Web Mobile 10000 codeurs
 
-	************************************
 *****  	Description de l'application:   	*****
 	************************************
 
@@ -12,7 +11,7 @@ L'application offre les fonctionnalités suivantes:
 - Afficher le détail d'un produit;
 - Liste de tous les produits. 
 
-	************************************
+
 *****  	     Pré-requis à l'execution de l'application		*****
 	************************************
 Installer un jdk ou au moins un jre sur son ordinateur (au moins la version 1.8).
@@ -30,7 +29,6 @@ Sur l'invite de commande windows (cmd.exe) ou le shell linux, saisir la commande
 La réponse doit vous indiquer la version de Java installée. 
 
 
-	************************************
 *****  	    Documentation:	    	*****
 	************************************
 
@@ -41,7 +39,6 @@ Veuillez suivre les indications suivantes:
 2) Double cliquez sur 'index.html'.
 
 	
-	************************************
 ***** 	Execution de l'application:    		*****
 	************************************
 
