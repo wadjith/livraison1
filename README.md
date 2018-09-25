@@ -12,8 +12,9 @@ L'application offre les fonctionnalités suivantes:
 - Liste de tous les produits. 
 
 
-*****  	     Pré-requis à l'execution de l'application		*****
-	************************************
+	     Pré-requis à l'execution de l'application		
+	******************************************************
+
 Installer un jdk ou au moins un jre sur son ordinateur (au moins la version 1.8).
 Pour l'installation suivre les étapes suivantes:
 - Rendez-vous sur le site d’Oracle : http://www.oracle.com/technetwork/java/javase/downloads/index.html;
